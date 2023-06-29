@@ -38,4 +38,4 @@ Do the following steps (Installation & Config):
 a product count deduction from quantity 1 nos will result in removal of the certain product from cart (cart with zero quantity is not valid)
 9.  for all changes made to cart will display "Original Price" and "Total To Pay (after discount)" on time
 
-## Thanks for your time and wonderful opertunity.
+## Thanks for your time and wonderful opportunity.
