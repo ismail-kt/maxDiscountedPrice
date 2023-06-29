@@ -27,15 +27,15 @@ Do the following steps (Installation & Config):
 
 # Application working
 -----------------------------------------------------------------------------------------------------------------
-Product List is populating from DB
-Click add to cart button to add a product to cart,
-in case of adding same product again to cart, cart product count is updates
-on adding a product to cart, you may change quantity of the product or keep it default
-cart is getting updated on right side
-in cart, Clear cart is to remove all cart items
-[X] button is used to remove that particular row from cart
-[-] button is for deducting cart product count (particular)
+1.  Product List is populating from DB
+2.  Click add to cart button to add a product to cart,
+3.  in case of adding same product again to cart, cart product count is updates
+4.  on adding a product to cart, you may change quantity of the product or keep it default
+5.  cart is getting updated on right side
+6.  in cart, Clear cart is to remove all cart items
+7.  [X] button is used to remove that particular row from cart
+8.  [-] button is for deducting cart product count (particular)
 a product count deduction from quantity 1 nos will result in removal of the certain product from cart (cart with zero quantity is not valid)
-for all changes made to cart will display "Original Price" and "Total To Pay (after discount)" on time
+9.  for all changes made to cart will display "Original Price" and "Total To Pay (after discount)" on time
 
 ## Thanks for your time and wonderful opertunity.
