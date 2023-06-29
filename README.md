@@ -33,8 +33,8 @@ Do the following steps (Installation & Config):
 4.  on adding a product to cart, you may change quantity of the product or keep it default
 5.  cart is getting updated on right side
 6.  in cart, Clear cart is to remove all cart items
-7.  [X] button is used to remove that particular row from cart
-8.  [-] button is for deducting cart product count (particular)
+7.  [ X ] button is used to remove that particular row from cart
+8.   [- ] button is for deducting cart product count (particular)
 a product count deduction from quantity 1 nos will result in removal of the certain product from cart (cart with zero quantity is not valid)
 9.  for all changes made to cart will display "Original Price" and "Total To Pay (after discount)" on time
 
